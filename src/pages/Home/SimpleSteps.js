@@ -14,12 +14,12 @@ const SimpleSteps = () => {
                     <div className=' p-3 flex flex-col justify-center items-center'>
                         <img className='w-44' src={mail} alt="" />
                         <p className='text-3xl'>Step Number 1 </p>
-                        <p>Contact Us <FontAwesomeIcon icon={faAngleRight}  className='ml-2 text-sm'  /></p>
+                        <p>Contact us <FontAwesomeIcon icon={faAngleRight}  className='ml-2 text-sm'  /></p>
                     </div>
                     <div className=' p-3  flex flex-col justify-center items-center'>
                         <img className='w-44' src={document} alt="" />
                         <p className='text-3xl'>Step Number 2</p>
-                        <p>tell us your <br /> requirements <FontAwesomeIcon icon={faAngleRight}  className='ml-2 text-sm'  /></p>
+                        <p>Tell us your <br /> requirements <FontAwesomeIcon icon={faAngleRight}  className='ml-2 text-sm'  /></p>
                     </div>
                     <div className='hidden'>
 

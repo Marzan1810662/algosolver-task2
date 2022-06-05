@@ -6,7 +6,8 @@ This is a simple landing page for a software company. The home page contains fiv
 * Header section
 * Banner section with sliding images 
 * Services section
-* help section - how to connect and get the desire product
+* Help section - how to connect and get the desire product
+* subscription section - to get regular updates
 * Footer
 
 `This page is fully resposive for larger dervices such as pc or latop and smaller devices such as tab and mobile phones`
