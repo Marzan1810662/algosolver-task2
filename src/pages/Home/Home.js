@@ -4,6 +4,7 @@ import Footer from './Footer';
 import Header from './Header';
 import Services from './Services';
 import SimpleSteps from './SimpleSteps';
+import Subscribe from './Subscribe';
 
 const Home = () => {
     return (
@@ -12,6 +13,7 @@ const Home = () => {
             <Slider />
             <Services />
             <SimpleSteps />
+            <Subscribe/>
             <Footer />
         </div>
     );

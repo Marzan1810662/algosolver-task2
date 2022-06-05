@@ -4,7 +4,7 @@ import styles from 'react-responsive-carousel/lib/styles/carousel.min.css';
 
 const Slider = () => {
     return (
-        <Carousel autoPlay infiniteLoop interval='5000' transitionTime="5000" showThumbs={false}>
+        <Carousel autoPlay infiniteLoop interval='6000' transitionTime="4000" showThumbs={false}>
             <div className='hero w-full h-[50vh] lg:h-[100vh]' style={
                 {
                     backgroundImage: `url(https://img.freepik.com/free-photo/web-development-application-design-coding-programming-concept_73903-462.jpg?size=626&ext=jpg&ga=GA1.2.1836613906.1639417936)`, backgroundRepeat: 'no-repeat',

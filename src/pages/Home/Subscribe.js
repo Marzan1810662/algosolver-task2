@@ -3,7 +3,7 @@ import React from 'react';
 const Subscribe = () => {
     return (
         <div>
-            <div className="hero h-[400px]" style={{backgroundImage: "url(https://img.freepik.com/free-vector/cloud-computing-storage-technology-background-digital-data-services-innovation-concept_42421-1087.jpg?w=1380&h=100)"}}>
+            <div className="hero h-[400px] mb-16" style={{backgroundImage: "url(https://img.freepik.com/free-vector/cloud-computing-storage-technology-background-digital-data-services-innovation-concept_42421-1087.jpg?w=1380&h=100)"}}>
                 <div className="hero-overlay bg-opacity-60"></div>
                 <div className="hero-content text-center text-neutral-content">
                     <div className="w-full">

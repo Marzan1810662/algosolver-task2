@@ -3,25 +3,25 @@
       "_id": "629c9d305dfaa2edbc72b33a",
       "serviceName": "Web Design",
       "picture": "https://w1.pngwing.com/pngs/30/196/png-transparent-web-design-icon-web-development-icon-design-user-interface-design-search-engine-optimization-adobe-xd-blue-electric-blue.png",
-      "shortDescription": "{lorem(30)}"
+      "shortDescription": "Concentrating on client needs to achieve the highest degree of satisfaction."
     },
     {
       "_id": "629c9d301f4fc896f757b230",
       "serviceName": "UI/UX Design",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDsdImv0ynk5Tnf46tWMszGHmFd9A0JEQJQ&usqp=CAU",
-      "shortDescription": "{lorem(30)}"
+      "shortDescription": "Your product may be complex, but the ui must be simple."
     },
     {
       "_id": "629c9d30891bb87ae2aaaa00",
       "serviceName": "Domain Hosting",
       "picture": "https://e7.pngegg.com/pngimages/827/941/png-clipart-web-development-web-design-logo-website-arrow-and-globe-logo-search-engine-optimization-text-thumbnail.png",
-      "shortDescription": "{lorem(30)}"
+      "shortDescription": "Leave all your hosting troubles for us to handle."
     },
     {
       "_id": "629c9d304f3029c3508d5cbf",
       "serviceName": "SEO",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTofMagpPZlibD-p8xoA0b2d3YNvoHTO4qTDcWCF1w1RLZOkgZm5O2-Sep_4MgBQOA63E8&usqp=CAU",
-      "shortDescription": "{lorem(30)}"
+      "shortDescription": "We successfully give SEO services to our valued client using proper strategies and keywords."
     }
 
   ]

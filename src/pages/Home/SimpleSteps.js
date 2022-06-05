@@ -7,9 +7,9 @@ import { faAngleRight } from '@fortawesome/free-solid-svg-icons';
 
 const SimpleSteps = () => {
     return (
-        <div className='border-t'>
+        <div className=''>
             <div className='py-8 my-2 '>
-                <h1 className='text-5xl '>3 simple Steps</h1>
+                <h1 className='text-5xl font-semibold'>3 Simple Steps</h1>
                 <div className='grid grid-cols-1 md:grid-cols-3 gap-4 3xl:gap-8 px-4 lg:px-28 my-6'>
                     <div className=' p-3 flex flex-col justify-center items-center'>
                         <img className='w-44' src={mail} alt="" />
